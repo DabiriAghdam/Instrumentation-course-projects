@@ -1,0 +1,3 @@
+[submodule "First Project"]
+	path = First Project
+	url = https://github.com/DabiriAghdam/esp32-based-iot-weather-station
